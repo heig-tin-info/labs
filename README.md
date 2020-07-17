@@ -115,6 +115,8 @@ Reprise du labo 20 Proust en permettant d'identifier les N mots les plus populai
 
 L'algorithme de la gare de triage sera mis en oeuvre par les étudiants pour calculer une expression arithmétique en la transformant en une expression polonaise inverse. Ce travail implique des queues et des piles.
 
+### [Labo 29 – Mariages Stables](https://github.com/heig-tin-info/labo-29-gale-shapley)
+
 ## Supplément
 
 ### Jeu de la Vie
