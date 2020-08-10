@@ -128,3 +128,8 @@ Implémenter le code pour contrôler un *boid* : https://eater.net/boids
 ### Mandelbrot
 
 Implémenter mandelbrot en utilisant *libsixel*
+
+### Code par substitution
+
+Décoder un message codé par substition par une analyse des fréquences des lettres
+
