@@ -121,15 +121,20 @@ L'algorithme de la gare de triage sera mis en oeuvre par les étudiants pour cal
 
 ### Jeu de la Vie
 
+Développer un automate cellulaire répondant aux règles du jeu de la vie.
+
 ### Boids
 
 Implémenter le code pour contrôler un *boid* : https://eater.net/boids
 
 ### Mandelbrot
 
-Implémenter mandelbrot en utilisant *libsixel*
+Implémenter mandelbrot en utilisant *libsixel*.
 
 ### Code par substitution
 
-Décoder un message codé par substition par une analyse des fréquences des lettres
+Décoder un message codé par substition par une analyse des fréquences des lettres.
 
+### Constante de Kaprekar
+
+Trouver des nombres de Kaprekar et les vérifier.
